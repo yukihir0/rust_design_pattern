@@ -4,7 +4,8 @@
 
 ## Design pattern
 
-- [Iterator](https://github.com/yukihir0/rust_design_pattern/tree/master/iterator)
 - [Adapter](https://github.com/yukihir0/rust_design_pattern/tree/master/adapter)
+- [Iterator](https://github.com/yukihir0/rust_design_pattern/tree/master/iterator)
 - [Template Method](https://github.com/yukihir0/rust_design_pattern/tree/master/template_method)
+- [Factory Method](https://github.com/yukihir0/rust_design_pattern/tree/master/factory_method)
 - [Strategy](https://github.com/yukihir0/rust_design_pattern/tree/master/strategy)
