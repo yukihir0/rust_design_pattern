@@ -10,4 +10,5 @@
 - [Factory Method](https://github.com/yukihir0/rust_design_pattern/tree/master/factory_method)
 - [Singleton](https://github.com/yukihir0/rust_design_pattern/tree/master/singleton)
 - [Prototype](https://github.com/yukihir0/rust_design_pattern/tree/master/prototype)
+- [Builder](https://github.com/yukihir0/rust_design_pattern/tree/master/builder)
 - [Strategy](https://github.com/yukihir0/rust_design_pattern/tree/master/strategy)
