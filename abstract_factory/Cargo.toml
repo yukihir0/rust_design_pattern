@@ -1,0 +1,6 @@
+[package]
+name = "abstract_factory"
+version = "0.1.0"
+authors = ["yukihir0 <yukihiro.cotori@gmail.com>"]
+
+[dependencies]
