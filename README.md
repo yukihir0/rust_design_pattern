@@ -13,3 +13,4 @@
 - [Builder](https://github.com/yukihir0/rust_design_pattern/tree/master/builder)
 - [Abstract Factory](https://github.com/yukihir0/rust_design_pattern/tree/master/abstract_factory)
 - [Strategy](https://github.com/yukihir0/rust_design_pattern/tree/master/strategy)
+- [Composite](https://github.com/yukihir0/rust_design_pattern/tree/master/composite)
