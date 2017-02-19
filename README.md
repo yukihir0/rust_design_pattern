@@ -15,3 +15,4 @@
 - [Bridge](https://github.com/yukihir0/rust_design_pattern/tree/master/bridge)
 - [Strategy](https://github.com/yukihir0/rust_design_pattern/tree/master/strategy)
 - [Composite](https://github.com/yukihir0/rust_design_pattern/tree/master/composite)
+- [Decorator](https://github.com/yukihir0/rust_design_pattern/tree/master/decorator)
