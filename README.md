@@ -17,3 +17,4 @@
 - [Composite](https://github.com/yukihir0/rust_design_pattern/tree/master/composite)
 - [Decorator](https://github.com/yukihir0/rust_design_pattern/tree/master/decorator)
 - [Visitor](https://github.com/yukihir0/rust_design_pattern/tree/master/visitor)
+- [Chain of Responsibility](https://github.com/yukihir0/rust_design_pattern/tree/master/chain_of_responsibility)

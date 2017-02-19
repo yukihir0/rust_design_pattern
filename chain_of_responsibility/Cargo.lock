@@ -1,0 +1,4 @@
+[root]
+name = "chain_of_responsibility"
+version = "0.1.0"
+
