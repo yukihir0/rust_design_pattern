@@ -19,3 +19,4 @@
 - [Visitor](https://github.com/yukihir0/rust_design_pattern/tree/master/visitor)
 - [Chain of Responsibility](https://github.com/yukihir0/rust_design_pattern/tree/master/chain_of_responsibility)
 - [Facade](https://github.com/yukihir0/rust_design_pattern/tree/master/facade)
+- [Observer](https://github.com/yukihir0/rust_design_pattern/tree/master/observer)
