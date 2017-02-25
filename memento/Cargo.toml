@@ -1,0 +1,7 @@
+[package]
+name = "memento"
+version = "0.1.0"
+authors = ["yukihir0 <yukihiro.cotori@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
