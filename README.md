@@ -23,3 +23,4 @@
 - [Observer](https://github.com/yukihir0/rust_design_pattern/tree/master/observer)
 - [Memento](https://github.com/yukihir0/rust_design_pattern/tree/master/memento)
 - [State](https://github.com/yukihir0/rust_design_pattern/tree/master/state)
+- [Flyweight](https://github.com/yukihir0/rust_design_pattern/tree/master/flyweight)
