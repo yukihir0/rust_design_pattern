@@ -26,3 +26,4 @@
 - [Flyweight](https://github.com/yukihir0/rust_design_pattern/tree/master/flyweight)
 - [Proxy](https://github.com/yukihir0/rust_design_pattern/tree/master/proxy)
 - [Command](https://github.com/yukihir0/rust_design_pattern/tree/master/command)
+- [Interpreter](https://github.com/yukihir0/rust_design_pattern/tree/master/interpreter)
